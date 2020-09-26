@@ -14,3 +14,5 @@
 | JZ6 | [旋转数组的最小数字](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%85%AD%E9%A2%98%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md) | 二分 | 简单 |
 | JZ7 | [斐波那契数列](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E4%B8%83%E9%A2%98%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) | 数组 | 中等 |
 | JZ8 | [跳台阶](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%85%AB%E9%A2%98%20%E8%B7%B3%E5%8F%B0%E9%98%B6.md) | 递归 | 中等 |
+| JZ9 | [变态跳台阶](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E4%B9%9D%E9%A2%98%20%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md) | 贪心 | 简单 |
+| JZ10 | [矩形覆盖](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E9%A2%98%20%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md) | 递归 | 中等 |
