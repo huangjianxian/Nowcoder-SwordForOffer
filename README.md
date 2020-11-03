@@ -22,3 +22,4 @@
 | JZ14 | [链表中倒数第k个结点](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%A2%98%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md) |  链表、双指针 | 较难 |
 | JZ15 | [反转链表](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E4%BA%94%E9%A2%98%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表 | 中等 |
 | JZ16 | [合并两个排序的链表](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E5%85%AD%E9%A2%98%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.md) | 分治 | 中等 |
+| JZ17 | [树的子结构](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E4%B8%83%E9%A2%98%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) | 树 | 较难 |
