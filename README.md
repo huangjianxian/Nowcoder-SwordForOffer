@@ -25,3 +25,4 @@
 | JZ17 | [树的子结构](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E4%B8%83%E9%A2%98%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) | 树 | 较难 |
 | JZ18 | [二叉树的镜像](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E5%85%AB%E9%A2%98%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md) | 树 | 简单 |
 | JZ19 | [顺时针打印矩阵](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E4%B9%9D%E9%A2%98%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md) | 数组 | 较难 |
+| JZ20 | [包含min函数的栈](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E4%BA%8C%E5%8D%81%E9%A2%98%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md) | 栈 | 较难 |
