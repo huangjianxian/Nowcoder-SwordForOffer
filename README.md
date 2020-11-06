@@ -26,3 +26,5 @@
 | JZ18 | [二叉树的镜像](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E5%85%AB%E9%A2%98%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md) | 树 | 简单 |
 | JZ19 | [顺时针打印矩阵](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%8D%81%E4%B9%9D%E9%A2%98%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md) | 数组 | 较难 |
 | JZ20 | [包含min函数的栈](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E4%BA%8C%E5%8D%81%E9%A2%98%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md) | 栈 | 较难 |
+| JZ21 | [栈的压入、弹出序列](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E9%A2%98%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md) | 栈 | 中等 |
+| JZ22 | [从上往下打印二叉树](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E9%A2%98%20%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 队列、树 | 困难 |
