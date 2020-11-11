@@ -48,3 +48,5 @@
 | JZ40 | [数组中只出现一次的数字](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%9B%9B%E5%8D%81%E9%A2%98%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 位运算、哈希 | 中等 |
 | JZ41 | [和为S的连续正数序列](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%80%E9%A2%98%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md) | 穷举 | 中等 |
 | JZ42 | [和为S的两个数字](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%8C%E9%A2%98%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md) | 双指针、数组 | 中等 |
+| JZ43 | [左旋转字符串](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%89%E9%A2%98%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 字符串 | 中等 |
+| JZ44 | [翻转单词顺序列](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%9B%9B%E9%A2%98%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.md) | 字符串 | 较难 |
