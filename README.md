@@ -71,3 +71,4 @@
 | JZ63 | [数据流中的中位数](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%85%AD%E5%8D%81%E4%B8%89%E9%A2%98%20%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 堆、排序 | 中等 |
 | JZ64 | [滑动窗口的最大值](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%85%AD%E5%8D%81%E5%9B%9B%E9%A2%98%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 堆、双指针 | 较难 |
 | JZ65 | [矩阵中的路径](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%85%AD%E5%8D%81%E4%BA%94%E9%A2%98%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | dfs、回溯 | 较难 |
+| JZ66 | [机器人的运动范围](https://github.com/huangjianxian/Nowcoder-SwordForOffer/blob/master/JZ-OFFER/%E7%AC%AC%E5%85%AD%E5%8D%81%E5%85%AD%E9%A2%98%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md) | 数组 | 较难 |
